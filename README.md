@@ -8,4 +8,17 @@
 }
 ```
 ### 🛠 Working On
-A Rust API to grab country IP ranges in order to classify which country an IP is in.
+```json
+{
+  "Language": "Rust",
+  "Category": "Library",
+  "Function": "Returns Country from IP",
+  "PoweredBy": ["https://ripe.net"]
+}
+```
+### Contact
+```json
+{
+  "Discord": "Leechist"
+}
+```
