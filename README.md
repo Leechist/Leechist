@@ -10,10 +10,7 @@
 ### 🛠 Working On
 ```json
 {
-  "Language": "Rust",
-  "Category": "Library",
-  "Function": "Returns Country from IP",
-  "PoweredBy": ["https://ripe.net"]
+  null
 }
 ```
 ### Contact
